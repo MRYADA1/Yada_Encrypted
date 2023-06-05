@@ -5,7 +5,6 @@ pkg update
 
 pkg upgrade
 
-rm -rf dark-clone1
 
 pkg install git
 
